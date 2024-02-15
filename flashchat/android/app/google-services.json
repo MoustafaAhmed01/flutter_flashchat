@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "210205305764",
+    "project_id": "flashchat-5f507",
+    "storage_bucket": "flashchat-5f507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210205305764:android:5fcdd3251937b71888af31",
+        "android_client_info": {
+          "package_name": "moustafa.com.flashchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0QYE05MLYIbpqGLgLgoxfOz2o-uiymTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
